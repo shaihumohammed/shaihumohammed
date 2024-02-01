@@ -33,7 +33,7 @@
    <img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" />
    <img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" />
    <img height="32" width="32" src="https://cdn.simpleicons.org/Javascript" />
-   <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />
+   
    <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
    <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 </div>
